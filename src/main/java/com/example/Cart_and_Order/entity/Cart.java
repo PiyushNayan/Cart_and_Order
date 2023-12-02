@@ -13,7 +13,7 @@ public class Cart {
 
     @Id
     private String cartId;
-    private List<CartItem> cardItemsIds;
+    private List<String> cardItemIds;
     private String userId;
 
 }

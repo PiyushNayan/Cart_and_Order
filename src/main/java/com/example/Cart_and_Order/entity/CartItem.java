@@ -15,5 +15,6 @@ public class CartItem {
     private String merchantId;
     private int count;
 
+
 }
 
